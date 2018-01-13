@@ -1,2 +1,2 @@
-print 'Good Night'
-print 'Sleep Well'
+print 'good night'
+print 'sleep well'
